@@ -1,22 +1,3 @@
-/* Call For proposals Form Start */
-#id_first_name, #id_last_name, #id_email, #id_phone, #id_website {
-    width: 300px;
-    border: 1px solid #bfbfbf;
-}
-#id_category,  #id_talk_length, #id_audience_level{
-    width: 340px;
-    border: 1px solid #bfbfbf;
-}
-#id_talk_title{
-    width: 400px;
-    border: 1px solid #bfbfbf;
-}
-#id_description, #id_speaker_bio, #id_abstract, #id_what_attendees_will_learn, #id_speaker_and_talk_history, #id_links_to_past_talks {
-    width: 400px;
-    height: 200px;
-    border: 1px solid #bfbfbf;
-}
-/* Call For proposals Form End */
 .form-control.textarea {
    color: black;
    font-size: 16px;
