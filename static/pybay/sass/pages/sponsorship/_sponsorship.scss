@@ -1,0 +1,35 @@
+.sponsor-prospectus-page {
+
+  @import './_tiers.scss';
+
+  #pie1 {
+    width: 100%;
+    margin-left: 8%;
+  }
+
+  table th {
+    width: 185px;
+    text-align: center;
+    border-right: 1px solid #ccc;
+    color: #ffffff;
+  }
+
+  tr {
+    border: 1px solid #ccc;
+    background: #428bca;
+  }
+
+  .last-column{
+    border-right: none;
+  }
+
+  .first-column {
+    background: #FBBD4A;
+    color: black;
+  }
+
+  .no-background {
+    background: transparent;
+  }
+
+}
